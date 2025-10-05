@@ -54,7 +54,7 @@ This API uses a **file-based database** system that:
 
 1. Run the application:
    ```powershell
-   & "C:\Program Files\Go\bin\go.exe" run main.go
+   & go run main.go
    ```
 2. The server will start on `http://localhost:8080`
 3. Sample articles are automatically created on first run
