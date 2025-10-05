@@ -1,6 +1,7 @@
 # Go Spring CRUD API with File-Based Database
 
 A RESTful API built with Go that provides CRUD operations for articles using persistent file storage as the database.
+I did step 1 and 2 in the assignment
 
 ## Features
 
